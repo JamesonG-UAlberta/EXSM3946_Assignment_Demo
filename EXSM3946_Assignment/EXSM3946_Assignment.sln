@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "EXSM3946_Assignment_FrontEnd", "EXSM3946_Assignment_FrontEnd\EXSM3946_Assignment_FrontEnd.esproj", "{B8008F99-2712-45FF-A868-8E273B864EBB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EXSM3946_Assignment_BackEnd", "exsm3946_assignment_backend\EXSM3946_Assignment_BackEnd.csproj", "{6347A919-0992-4335-884A-45449C83D0D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8008F99-2712-45FF-A868-8E273B864EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8008F99-2712-45FF-A868-8E273B864EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8008F99-2712-45FF-A868-8E273B864EBB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B8008F99-2712-45FF-A868-8E273B864EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8008F99-2712-45FF-A868-8E273B864EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8008F99-2712-45FF-A868-8E273B864EBB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6347A919-0992-4335-884A-45449C83D0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6347A919-0992-4335-884A-45449C83D0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6347A919-0992-4335-884A-45449C83D0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6347A919-0992-4335-884A-45449C83D0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C8483B-E80F-433B-8D1B-D4496DCEDE8A}
+	EndGlobalSection
+EndGlobal
